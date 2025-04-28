@@ -11,7 +11,7 @@ export default function Navbar() {
         </div>
         <div className="flex gap-6 text-2xl px-20 py-4 bg-gray-100">
           <NavLink
-            to="/Characters"
+            to="/"
             className={({ isActive }) =>
               `transition-colors duration-300 ${
                 isActive

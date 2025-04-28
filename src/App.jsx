@@ -15,7 +15,7 @@ function App() {
       element: <Home />,
       children: [
         {
-          path: "Characters",
+          path: "/",
           element: <Characters />,
         },
         {
