@@ -80,5 +80,6 @@ Le projet utilise l'API officielle Rick and Morty :
 🔗 https://rickandmortyapi.com/
 
 
-
+🚀 Lien du projet déployé :
+🔗 https://react-wiki-the-webjunior-the-webjuniors-projects.vercel.app/
 
